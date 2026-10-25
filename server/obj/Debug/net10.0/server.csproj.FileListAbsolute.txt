@@ -1,0 +1,14 @@
+C:\Users\maxha\Documents\Lab4_ISRPO_Sharanov\server\bin\Debug\net10.0\server.exe
+C:\Users\maxha\Documents\Lab4_ISRPO_Sharanov\server\bin\Debug\net10.0\server.deps.json
+C:\Users\maxha\Documents\Lab4_ISRPO_Sharanov\server\bin\Debug\net10.0\server.runtimeconfig.json
+C:\Users\maxha\Documents\Lab4_ISRPO_Sharanov\server\bin\Debug\net10.0\server.dll
+C:\Users\maxha\Documents\Lab4_ISRPO_Sharanov\server\bin\Debug\net10.0\server.pdb
+C:\Users\maxha\Documents\Lab4_ISRPO_Sharanov\server\obj\Debug\net10.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxha\Documents\Lab4_ISRPO_Sharanov\server\obj\Debug\net10.0\server.AssemblyInfoInputs.cache
+C:\Users\maxha\Documents\Lab4_ISRPO_Sharanov\server\obj\Debug\net10.0\server.AssemblyInfo.cs
+C:\Users\maxha\Documents\Lab4_ISRPO_Sharanov\server\obj\Debug\net10.0\server.csproj.CoreCompileInputs.cache
+C:\Users\maxha\Documents\Lab4_ISRPO_Sharanov\server\obj\Debug\net10.0\server.dll
+C:\Users\maxha\Documents\Lab4_ISRPO_Sharanov\server\obj\Debug\net10.0\refint\server.dll
+C:\Users\maxha\Documents\Lab4_ISRPO_Sharanov\server\obj\Debug\net10.0\server.pdb
+C:\Users\maxha\Documents\Lab4_ISRPO_Sharanov\server\obj\Debug\net10.0\server.genruntimeconfig.cache
+C:\Users\maxha\Documents\Lab4_ISRPO_Sharanov\server\obj\Debug\net10.0\ref\server.dll
